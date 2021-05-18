@@ -1,0 +1,24 @@
+{
+  "name": "codetest-graphql",
+  "version": "1.0.0",
+  "description": "Created with CodeSandbox",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js localhost 4000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joannayinym/codetest-graphql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "2.9.7",
+    "graphql": "14.5.8",
+    "graphql-tag": "^2.10.1"
+  },
+  "devDependencies": {
+    "@types/graphql": "14.0.1",
+    "nodemon": "1.18.4"
+  }
+}
